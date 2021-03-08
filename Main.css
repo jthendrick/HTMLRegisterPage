@@ -1,0 +1,31 @@
+form{
+    position: center;
+    top: 100px;
+    
+    border: 5px sold white;
+    background-color: white;
+    text-align: center;
+    margin: auto;
+}
+body{
+    background-color: rgb(62, 120, 245);
+    
+    border-width: 7px;
+}
+
+h1{
+    text-align: center;
+}
+
+.headerbutton{
+    color: white;
+    background: blue;
+    font-size: xx-large;
+}
+
+.submit{
+    color: white;
+    background: blue;
+    font-size: xx-large;
+
+}
